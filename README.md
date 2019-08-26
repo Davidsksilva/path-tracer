@@ -1,7 +1,7 @@
 # Physically Based Rendering Tracing (PBRT)
 
 PBRT is a philosophy in computer graphics that seeks to render graphics in a way that more accurately models
-the flow of light in the real world. This code is a project developed during the PBR course, in the 
+the flow of light in the real world. This code is a project developed during the PBRT course, in the 
 Federal University of Paraiba, Brazil.
 
  ## Getting Started
@@ -31,7 +31,7 @@ Federal University of Paraiba, Brazil.
  ```
  ./pathtracer
  ```
- 
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
