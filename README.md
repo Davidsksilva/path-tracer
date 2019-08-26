@@ -4,6 +4,8 @@ PBRT is a philosophy in computer graphics that seeks to render graphics in a way
 the flow of light in the real world. This code is a project developed during the PBRT course, in the 
 Federal University of Paraiba, Brazil.
 
+![demo](./output_image.ppm)
+
  ## Getting Started
  
  These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
